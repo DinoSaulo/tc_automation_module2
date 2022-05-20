@@ -14,7 +14,7 @@ on the ICMC-USP page.
 ###  📝 Ferramentas utilizadas
 | Linguagem         | Framework           | Ferramenta de Gerenciamento | Navegador                             |
 |-------------------|---------------------|-----------------------------|---------------------------------------|
-| Python 3.10.4     | Selenium Web Driver | PIP                         | Google Chrome (versão 101.0.4951.67)  |
+| Python 3.10.4     | Selenium Web Driver | PIP 22.0.4                  | Google Chrome (versão 101.0.4951.67)  |
 
 ## 💻 Pré-requisitos
 
